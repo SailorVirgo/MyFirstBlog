@@ -76,6 +76,12 @@ cd my-blog
 3. Open index.html in your browser to start the application.
 ```
 
+## Link To Page
+
+```md
+https://sailorvirgo.github.io/MyFirstBlog/index.html
+```
+
 ## Usage
 
 ```md
